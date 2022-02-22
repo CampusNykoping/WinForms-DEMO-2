@@ -38,15 +38,15 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(51, 36);
+            this.label1.Location = new System.Drawing.Point(101, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(86, 35);
+            this.label1.Size = new System.Drawing.Size(84, 35);
             this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.label1.Text = "Timer";
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(43, 128);
+            this.btnStart.Location = new System.Drawing.Point(93, 124);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(94, 29);
             this.btnStart.TabIndex = 1;
@@ -62,7 +62,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(192, 247);
+            this.ClientSize = new System.Drawing.Size(300, 247);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
